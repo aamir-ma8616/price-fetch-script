@@ -1,0 +1,12 @@
+{
+  "name": "price-fetch-script",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "ethers": "^6.8.1"
+  }
+}

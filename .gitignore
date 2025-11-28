@@ -1,0 +1,30 @@
+# Node dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# VS Code settings
+.vscode/
+.history/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+debug.log
+
+# ABI + build artifacts
+*.abi
+build/
+artifacts/
+
+# Cache
+.cache/
